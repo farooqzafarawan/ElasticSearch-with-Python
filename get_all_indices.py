@@ -1,6 +1,4 @@
 from elasticsearch import Elasticsearch
-from elasticsearch import exceptions
-import json
 
 try:
     # declare an es client instance of the Python Elasticsearch library
